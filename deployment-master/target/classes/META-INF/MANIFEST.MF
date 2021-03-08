@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: bkongara
+Build-Jdk: 11.0.2
+Implementation-Title: DeploymentSample
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cg
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://maven.apache.org
+Main-Class: com.cg.DeploymentSample.App
+Created-By: Maven Integration for Eclipse
+
